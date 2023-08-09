@@ -1,1 +1,1 @@
-console.log("Hello F# World!");
+console.log("Hello, World!");
